@@ -1,0 +1,17 @@
+$greyLight: #e1e3e5;
+$purple: #9b59b6;
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding: 100px;
+}
+
+.main {
+  padding: 100px;
+  text-align: center;
+  border-top: 3px solid $purple;
+  border-right: 1px solid $greyLight;
+  border-bottom: 1px solid $greyLight;
+  border-left: 1px solid $greyLight;
+}
