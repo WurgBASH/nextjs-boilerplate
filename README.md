@@ -1,6 +1,6 @@
 # NEXTJS-BOILERPLATE
 
-🚀 Boilerplate and Starter for Next.js, SCSS and TypeScript ⚡️ Made with developer experience first: Next.js, TypeScript, ESLint, Prettier, Commitlint, VSCode, PostCSS, SCSS.
+🚀 Boilerplate and Starter for Next.js, SCSS and TypeScript
 
 ### Requirements
 
@@ -11,7 +11,7 @@
 Run the following command on your local environment:
 
 ```shell
-git clone --depth=1 https://github.com/WurgBASH/nextjs-boilerplatte.git my-project-name
+git clone --depth=1 https://github.com/WurgBASH/nextjs-boilerplate.git my-project-name
 cd my-project-name
 yarn
 ```
